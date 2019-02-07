@@ -5,7 +5,7 @@ class Pirate
 
     def initialize(name, weight, height)
         @name = name
-        @weight = weight 
+        @weight = weight
         @height = height
         @all << self
     end
