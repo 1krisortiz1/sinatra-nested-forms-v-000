@@ -9,6 +9,7 @@ class Ship
         @type = args[:type]
         @booty = args[:booty]
         SHIPS << self
+    end
 
     def self.all
         SHIPS
