@@ -4,8 +4,8 @@ class Pirate
     @all = []
 
 
-    def all
-
+    def self.all
+        
     end
 
 end
