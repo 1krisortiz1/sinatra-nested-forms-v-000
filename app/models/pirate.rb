@@ -3,7 +3,7 @@ class Pirate
 
     @@PIRATES = []
 
-    def initialize(name, weight, height)
+    def initialize(params)
         @name = name
         @weight = weight
         @height = height
