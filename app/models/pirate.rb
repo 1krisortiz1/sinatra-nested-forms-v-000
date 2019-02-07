@@ -3,7 +3,7 @@ class Pirate
 
     @all = []
 
-    
+
 
 
 end
