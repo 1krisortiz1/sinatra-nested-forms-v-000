@@ -9,7 +9,7 @@ class Ship
         @type = type
         @booty = booty
         @@SHIPS << self
-    
+
     def self.all
         @@SHIPS
     end
